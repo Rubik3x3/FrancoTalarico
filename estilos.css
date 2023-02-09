@@ -1,21 +1,23 @@
 *{
 	padding: 0;
 	margin: 0;
-	font-family: 'Roboto', sans-serif;
+    font-family: 'Aboreto', cursive;
 }
 
 .bgimage {
     height:100vh;
-    background-color: #252525;
+    background-color: #FEFEFE;
     background-size:cover;
     position:relative;
 }
 
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
+    color: #151515;
 }
 .hero_desc {
     font-size: 2rem;
+    color: #303030;
 }
 .hero-text {
     text-align: center;
